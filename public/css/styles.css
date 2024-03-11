@@ -1,0 +1,6 @@
+/* This lets the bar to transform into a 'X' when it is clicked. */
+body:before {
+    display: none !important;
+    content: "";
+    height: 56px;
+}
